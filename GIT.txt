@@ -1,0 +1,4 @@
+git: est un logiciel c'est une collaboration 
+
+faire des version une ligne chronologique
+synchro  sur un server
